@@ -1,0 +1,79 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl asche
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/asche_diffuse.jpeg
+map_Ns textures/asche_specularGlossiness.png.001.png
+map_Ke textures/asche_emissive.jpeg
+map_Bump -bm 1.000000 textures/asche_normal.jpeg
+
+newmtl boden
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/boden_diffuse.jpeg
+map_Ns textures/boden_specularGlossiness.png.001.png
+map_Bump -bm 1.000000 textures/boden_normal.jpeg
+
+newmtl griff
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/griff_diffuse.jpeg
+map_Ns textures/griff_specularGlossiness.png.001.png
+map_Ke textures/griff_emissive.jpeg
+map_Bump -bm 1.000000 textures/griff_normal.jpeg
+
+newmtl klinge
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/klinge_diffuse.jpeg
+map_Ns textures/klinge_specularGlossiness.png.001.png
+map_Ke textures/klinge_emissive.jpeg
+map_Bump -bm 1.000000 textures/klinge_normal.jpeg
+
+newmtl knochen
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/knochen_diffuse.jpeg
+map_Ns textures/knochen_specularGlossiness.png.001.png
+map_Bump -bm 1.000000 textures/knochen_normal.jpeg
+
+newmtl schaedel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/schaedel_diffuse.jpeg
+map_Ns textures/schaedel_specularGlossiness.png.001.png
+map_Bump -bm 1.000000 textures/schaedel_normal.jpeg
+
+newmtl steine
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd textures/steine_diffuse.jpeg
+map_Ns textures/steine_specularGlossiness.png.001.png
+map_Bump -bm 1.000000 textures/steine_normal.jpeg

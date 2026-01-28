@@ -1,0 +1,642 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material_#1
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Yatai-Props_D.jpeg
+map_d textures/T_Yatai-Props_O.jpg
+
+newmtl Material_#107
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_wallHouse4_D.jpg
+
+newmtl Material_#108
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_roof3_D.jpg
+
+newmtl Material_#111
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_manMade_D.jpg
+
+newmtl Material_#113
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_metal-parts2_D.jpg
+
+newmtl Material_#13
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_house1_D.jpg
+
+newmtl Material_#15
+Ns 37.321308
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_roof_D.jpg
+map_Ks textures/T_roof_D.jpg
+
+newmtl Material_#16
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_details_D.jpg
+
+newmtl Material_#18
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/T_windows_D.jpg
+map_d textures/T_windows_A.jpg
+
+newmtl Material_#2
+Ns 21.435465
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_LanternBig_D.jpg
+
+newmtl Material_#20
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_metal parts_D.jpg
+
+newmtl Material_#21
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_interior_D.jpg
+map_d textures/T_interior_A.jpg
+
+newmtl Material_#22
+Ns 10.717731
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_interiorFloor_D.jpg
+
+newmtl Material_#23
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_torii_D.jpg
+
+newmtl Material_#25
+Ns 149.285278
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_roof2_D.jpg
+map_Ks textures/T_roof2_D.jpg
+
+newmtl Material_#25.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_beamedWalls_D.jpg
+
+newmtl Material_#25.002
+Ns 10.717731
+Ka 1.000000 1.000000 1.000000
+Ks 0.700000 0.700000 0.700000
+Ke 0.156863 0.176471 0.000000
+Ni 1.500000
+illum 3
+map_Kd textures/T_bamboo_D.jpg
+map_d textures/T_bamboo_A.jpg
+
+newmtl Material_#26
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_woodALt_D.jpg
+
+newmtl Material_#26.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Maple_D.jpg
+map_Ke textures/T_Maple_D.jpg
+map_d textures/T_Maple_A.jpg
+
+newmtl Material_#27
+Ns 211.121262
+Ka 1.000000 1.000000 1.000000
+Kd 0.015686 0.031373 0.070588
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material_#28
+Ns 85.741859
+Ka 1.000000 1.000000 1.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_plants_D.jpg
+map_Ks textures/T_plants_D.jpg
+map_Ke textures/T_plants_D.jpg
+map_d textures/T_plants_A.jpg
+
+newmtl Material_#29
+Ns 10.717731
+Ka 1.000000 1.000000 1.000000
+Ks 0.880000 0.880000 0.880000
+Ni 1.500000
+illum 3
+map_Kd textures/T_Pine_D.jpg
+map_Ke textures/T_Pine_D.jpg
+map_d textures/T_Pine_A.jpg
+
+newmtl Material_#30
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_tree_D.jpg
+map_Ke textures/T_tree_D.jpg
+map_d textures/T_tree_A.jpg
+
+newmtl Material_#30.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_manMade_D.jpg
+
+newmtl Material_#41
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_PlasterExterior_D.jpg
+
+newmtl Material_#42
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_details_D.jpg
+
+newmtl Material_#43
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_House2Details_D.jpg
+
+newmtl Material_#44
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_Bench_D.jpg
+
+newmtl Material_#44.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_Yatai-bench_D.jpg
+
+newmtl Material_#62
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_WoodenLantern_D.jpg
+
+newmtl Material_#78
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_entrance_D.jpg
+map_d textures/T_entrance_A.jpg
+
+newmtl Material_#79
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_wallHouse3_D.jpg
+
+newmtl Material_#810
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Hedge_D.jpg
+map_Ke textures/T_Hedge_D.jpg
+map_d textures/T_Hedge_A.jpg
+
+newmtl Material_#811
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Hedge_D.jpg
+map_Ke textures/T_Hedge_D.jpg
+map_d textures/T_Hedge2_A.jpg
+
+newmtl Material_#8184
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_pastries_D.jpg
+
+newmtl Material_#8908
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_Lantern_D.jpg
+
+newmtl Material_#8911
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_details_D.jpg
+
+newmtl Material_#8912
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_concrete_D.jpg
+
+newmtl Material_#8913
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_Bridge_D.jpg
+
+newmtl Material_#8914
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_bridge2_D.jpg
+
+newmtl Material_#8915
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_road2_D.jpg
+
+newmtl Material_#8916
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_canal_D.jpg
+
+newmtl Material_#8917
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_shrine_D.jpg
+
+newmtl Material_#8918
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_grass_D.jpg
+
+newmtl Material_#8919
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_rocks_D.jpeg
+
+newmtl Material_#8930_Slot_#7
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl Material_#8931
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_VendingMachine_D.jpg
+
+newmtl Material_#8945
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Maple_D.jpg
+map_Ke textures/T_Maple_D.jpg
+map_d textures/T_Maple_A.jpg
+
+newmtl Material_#8946
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_parkroad_D.jpg
+
+newmtl Material_#8947
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_decals_D.jpg
+map_d textures/T_Decals_A.jpg
+
+newmtl Material_#8948
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.160784 0.160784 0.160784
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl Material_#8949
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_dirt_D.jpg
+
+newmtl Material_#8950
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_grass_D.jpg
+map_d textures/T_borders_A.jpg
+
+newmtl Material_#8951
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_dirt_D.jpg
+map_d textures/T_borders_A.jpg
+
+newmtl Material_#8952
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_bicycle1024_D.jpg
+map_d textures/T_bicycle_O.jpg
+
+newmtl Material_#8953
+Ns 24.622881
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.740000
+illum 1
+map_Kd textures/T_Water_D.jpg
+map_Ks textures/T_Water_D.jpg
+
+newmtl Material_#8965
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_shintoPillars_D.jpg
+
+newmtl Material_#8966
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_electricityPole_D.jpg
+
+newmtl Material_#8967
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_tanabata_and_ema_D.jpg
+
+newmtl Material_#91
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_wearAndTear_D.jpg
+map_d textures/T_wearAndTear_A.jpg
+
+newmtl Material_#94
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_LanternBig2_D.jpg
+
+newmtl Material_#95
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_Yakitori_D.jpg
+
+newmtl stairs
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd textures/T_road_D.jpg
+
+newmtl yatai
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd textures/T_Yatai2048_D.jpg
+map_d textures/T_Yatai_O.jpg

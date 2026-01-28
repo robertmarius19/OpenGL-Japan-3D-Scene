@@ -1,0 +1,40 @@
+# --- Build Output ---
+x64/
+x86/
+Debug/
+Release/
+build/
+bin/
+obj/
+
+# --- Visual Studio ---
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.ipch
+*.aps
+
+# --- Executables & Objects ---
+*.exe
+*.obj
+*.o
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# --- MacOS / System ---
+.DS_Store
+Thumbs.db
+
+# --- Exceptions (Pastreaza librariile si resursele) ---
+!lib/
+!libs/
+!include/
+!resources/
+!textures/
+!models/
+!shaders/
