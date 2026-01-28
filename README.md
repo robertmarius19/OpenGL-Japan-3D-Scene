@@ -2,7 +2,7 @@
 
 A computer graphics project implementing a complex 3D environment inspired by rural Japanese aesthetics. The project utilizes modern OpenGL (Core Profile) to demonstrate advanced rendering techniques, physics-based collisions, and dynamic weather systems.
 
-![Screenshot](resources/cocoroada-robert-marius/map.png)
+![Screenshot](resources/map.png)
 *(Note: Replace the path above with your main screenshot path)*
 
 ## Features
